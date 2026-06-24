@@ -135,7 +135,3 @@ RECOMMENDATIONS
 2. Review overtime policies in high-attrition departments
 3. Expand remote work options to reduce overall attrition
 ```
-
----
-
-## Author
