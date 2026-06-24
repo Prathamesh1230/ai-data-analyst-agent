@@ -139,5 +139,3 @@ RECOMMENDATIONS
 ---
 
 ## Author
-
-**Prathamesh Jadhav**  
