@@ -141,4 +141,4 @@ RECOMMENDATIONS
 ## Author
 
 **Prathamesh Jadhav**  
-[LinkedIn](https://linkedin.com/in/prathameshjadhav) | [GitHub](https://github.com/Prathamesh1230)
+[LinkedIn](https://linkedin.com/in/prathameshjadhav
