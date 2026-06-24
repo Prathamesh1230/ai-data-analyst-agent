@@ -141,4 +141,3 @@ RECOMMENDATIONS
 ## Author
 
 **Prathamesh Jadhav**  
-[LinkedIn](https://linkedin.com/in/prathameshjadhav
